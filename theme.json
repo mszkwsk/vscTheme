@@ -1,0 +1,24 @@
+{
+"workbench.colorTheme": "kiwi",
+  "editor.tabSize": 2,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#003c2b",
+    "activityBarBadge.background": "#479616",
+    "statusBar.background": "#003333",
+    "sideBar.background": "#000000",
+    "sideBar.border": "#003c2b",
+    "tab.activeBackground": "#000000",
+    "tab.inactiveBackground": "#003c2b",
+    "editorGroupHeader.tabsBackground": "#003c2b",
+    "editor.background": "#000000",
+    "editorWidget.border": "#003c2b",
+    "editorGroup.border": "#003c2b",
+    "scrollbarSlider.background": "#003333",
+    "scrollbarSlider.activeBackground": "#003c2b",
+    "scrollbarSlider.hoverBackground": "#003c2b",
+    "list.activeSelectionBackground": "#003c2b",
+    "list.inactiveSelectionBackground": "#003333",
+    "list.hoverBackground": "#006400",
+    "input.background": "#003333"
+  }
+}
