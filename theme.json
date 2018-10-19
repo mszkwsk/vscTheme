@@ -1,5 +1,7 @@
 {
-"workbench.colorTheme": "kiwi",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "kiwi",
   "editor.tabSize": 2,
   "workbench.colorCustomizations": {
     "activityBar.background": "#003c2b",
@@ -20,5 +22,16 @@
     "list.inactiveSelectionBackground": "#003333",
     "list.hoverBackground": "#006400",
     "input.background": "#003333"
-  }
+  },
+  "breadcrumbs.enabled": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.defaultDateStyle": "absolute",
+  "gitlens.codeLens.enabled": false,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.hovers.currentLine.enabled": false,
+  "terminal.explorerKind": "external",
+  "window.zoomLevel": 0
 }
